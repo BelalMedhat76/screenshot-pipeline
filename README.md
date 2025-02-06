@@ -1,4 +1,5 @@
 Screenshot Pipeline (React & Node.js)
+
 This project is a screenshot pipeline built with React.js (Tailwind CSS & Framer Motion) on the frontend and Node.js (Express & Puppeteer) on the backend. The project will be developed step by step, with each step focusing on a different aspect, including amazing design, impressive animations, and full responsiveness.
 
 Features

@@ -38,19 +38,13 @@ CORS (to enable frontend-backend communication)
 
 Step 1: Backend Setup (Node.js & Express)
 
-1️⃣ Initialize the Backend
-
-mkdir screenshot-pipeline && cd screenshot-pipeline
-npm init -y
-
-2️⃣ Install Dependencies
+1️⃣ Install Dependencies
  cd frontend folder
  npm run dev
 
-5️⃣ Run the Server
- cd backend to run server
+
+2️⃣ cd backend to run server
  node server.js
 
 
-✅ Once the backend is running, let me know so we can move to the frontend setup! 🚀
 

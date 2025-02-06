@@ -36,7 +36,6 @@ Puppeteer (for capturing screenshots)
 
 CORS (to enable frontend-backend communication)
 
-Step 1: Backend Setup (Node.js & Express)
 
 1️⃣ Install Dependencies
  cd frontend folder
